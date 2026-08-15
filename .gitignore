@@ -1,0 +1,9 @@
+# Artefatos de build (gerados a partir do código-fonte, não versionados)
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+
+# node_modules usado só para gerar os .docx localmente
+Documentacao/node_modules/
