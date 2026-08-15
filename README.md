@@ -10,6 +10,11 @@ and Drainage Paper No. 56 (Allen et al., 1998).
 Documentação completa (manual de instalação/uso e memorial descritivo)
 em [`Documentacao/`](Documentacao/).
 
+**Versão web:** para publicar via GitHub Pages (como no
+[APP-Calagem](https://fernandoputti.github.io/APP-Calagem/)), vá em
+Settings → Pages → Deploy from branch → `main` / `root` deste repositório.
+A raiz já contém `index.html`, pronto para ser servido diretamente.
+
 ## Estrutura
 
 ```
